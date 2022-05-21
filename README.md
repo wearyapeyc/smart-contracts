@@ -1,4 +1,4 @@
-# Welcome to Weary Ape Yacht Club 🦧
+# Welcome to Weary Ape Yacht Club 🐵
 
 All the code in these repos was created and explained by Weary Ape Yacht Club on the main Discord channel.
 
